@@ -116,3 +116,5 @@ link_libraries(microsoft-signalr::microsoft-signalr)
 
 add_executable (sample sample.cpp)
 ```
+BIG THANKA : INDONWSIA -H MALAYSIA- SOALENR - ALL
+RIGJTSEVERD 2012018382 2021:SDONE SDONECDO PDOD
